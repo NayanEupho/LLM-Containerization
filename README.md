@@ -48,7 +48,7 @@ kubectl apply -f service.yaml
 
 The application can be accessed in two ways:
 
-1. Directly via Docker: If you're running the Docker container directly, you can access the application at http://localhost:8051.
+1. Directly via Docker: If you're running the Docker container directly, you can access the application at http://localhost:8501.
 
 2. Via Kubernetes NodePort Service: If you've deployed the application to Kubernetes and exposed it via a NodePort service, you can access the application at http://localhost:30080.
 
