@@ -1,10 +1,10 @@
 # LLM Model Finetuning and Deployment
 
-This project involves finetuning the OLLAMA model, tweaking its parameters, and providing a GUI to interact with the model via a Streamlit web application. The project also includes DevOps tasks such as containerizing the model using Docker, pushing the Docker image to Docker Hub, creating Kubernetes deployments and services, and finally deploying and accessing the application.
+This project involves finetuning the llama=2 Model and uses Ollama interface, tweaking its parameters, and providing a GUI to interact with the model via a Streamlit web application. The project also includes DevOps tasks such as containerizing the model using Docker, pushing the Docker image to Docker Hub, creating Kubernetes deployments and services, and finally deploying and accessing the application.
 
 ## Project Structure
 
-1. **Model Finetuning**: The OLLAMA model is finetuned and its parameters are tweaked for optimal performance.
+1. **Model Finetuning**: The llama-2 Model is finetuned and its parameters are tweaked for optimal performance.
 
 2. **Streamlit Web Application**: A Streamlit web application is developed to provide a GUI for interacting with the finetuned model.
 
